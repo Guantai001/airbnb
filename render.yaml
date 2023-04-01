@@ -1,7 +1,7 @@
 databases:
   - name: carsdb
     databaseName: carsdb
-    user: mysite
+    user: carsdb_user
 
 services:
   - type: web
